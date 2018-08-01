@@ -1,0 +1,17 @@
+.intro {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+ul  {
+  list-style-type: none;
+}
+.education  {
+  background: lightgray;
+}
+
+.school {
+  width: 500px;
+}
